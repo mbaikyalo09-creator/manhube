@@ -2,8 +2,8 @@
 
 $data = json_decode(file_get_contents("php://input"), true);
 
-$api_key = "putyourapihere";
-$email = "putyouremailhere";
+$api_key = "PRK_live_joJ6V6HHH5zaSTCAhDThRnkBLXTMV7Un";
+$email = "mbaikyalo09@gmail.com";
 
 $amount = $data['amount'];
 $msisdn = $data['msisdn'];
